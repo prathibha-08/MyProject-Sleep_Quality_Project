@@ -1,0 +1,11 @@
+Sleep_Duration,Exercise,Screen_Time,Stress_Level,Caffeine,Sleep_Interruptions,Quality
+7,30,60,3,Low,No,Good
+5,10,180,8,High,Yes,Poor
+6,20,120,5,Moderate,Yes,Average
+8,40,30,2,None,No,Good
+4,5,200,9,High,Yes,Poor
+7,25,80,4,Low,No,Good
+6,15,150,6,Moderate,Yes,Average
+5,10,170,7,High,Yes,Poor
+8,45,40,2,None,No,Good
+6,20,110,5,Moderate,No,Average
